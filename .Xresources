@@ -1,0 +1,21 @@
+!Font
+URxvt.font: xft:Inconsolata:size=10,xft:FontAwesome:size=1
+
+!Background Color
+!URxvt.background:black
+
+!Font Color
+URxvt.foreground: white
+
+!Transparent
+URxvt.inheritPixmap: true
+URxvt.transparent: true
+URxvt.shading: 10
+
+
+!Scrollbar
+URxvt.scrollBar: false
+
+
+Xcursor.theme: cursor-theme
+
